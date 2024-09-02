@@ -9,4 +9,7 @@
 
     <color name="green_btn_color">#379A61</color>
 
+    <color name="appbar_bg_color">#ECF8F1</color>
+    <color name="appbar_txt_color">#1D1B20</color>
+
 </resources>

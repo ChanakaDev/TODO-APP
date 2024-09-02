@@ -14,4 +14,15 @@
     <string name="enter_confirm_password">Confirm password</string>
     <string name="sign_up">Sign up</string>
     <string name="already_have_acc_question">Already have an account? Sign in</string>
+
+    <string name="leading_icon_name">Leading</string>
+    <string name="trailing_icon_name">Trailing</string>
+    <string name="appbar_txt">Todo List</string>
+    <string name="add_todo">+ Add todo</string>
+    <string name="no_todo_txt">No tasks yet. Tap “+ Add todo” to add your first todo.</string>
+    <string name="empty_todo_des">Empty todo</string>
+    <string name="trailing_icon_des">Trailing icon</string>
+    <string name="leading_icon_des">Leading icon</string>
+
+
 </resources>
