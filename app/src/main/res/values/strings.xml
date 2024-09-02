@@ -24,5 +24,14 @@
     <string name="trailing_icon_des">Trailing icon</string>
     <string name="leading_icon_des">Leading icon</string>
 
+    <string name="user_profile">User Profile</string>
+    <string name="name">Name: Chanaka Bandara</string>
+    <string name="student_no">Student no: 2019/T/00434</string>
+    <string name="personal_statement">Personal statement: I am a Student</string>
+    <string name="release_version">Release version: v 1.0.0</string>
+    <string name="username">Username: Chanaka123</string>
+    <string name="email">Email: mr.mbcnb@gmail.com</string>
+    <string name="btn1_name">Edit details</string>
+    <string name="btn2_name">Sign out</string>
 
 </resources>
