@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">TODO APP</string>
+
+    <string name="developed_by">developed by</string>
+    <string name="developer_name">Chanaka N. Bandara</string>
+    <string name="splash_screen_logo_name">splash screen logo</string>
 </resources>
