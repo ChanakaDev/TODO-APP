@@ -10,4 +10,8 @@
     <string name="sign_in">Sign in</string>
     <string name="dont_have_acc_question">Don’t have an account? Sign up</string>
 
+    <string name="enter_email">Email address</string>
+    <string name="enter_confirm_password">Confirm password</string>
+    <string name="sign_up">Sign up</string>
+    <string name="already_have_acc_question">Already have an account? Sign in</string>
 </resources>
