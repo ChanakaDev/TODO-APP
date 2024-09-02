@@ -5,4 +5,8 @@
 
     <color name="grey_txt_color">#969696</color>
     <color name="green_txt_color">#379A61</color>
+    <color name="dark_txt_color">#1D1B20</color>
+
+    <color name="green_btn_color">#379A61</color>
+
 </resources>

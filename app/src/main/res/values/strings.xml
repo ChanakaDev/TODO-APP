@@ -4,4 +4,10 @@
     <string name="developed_by">developed by</string>
     <string name="developer_name">Chanaka N. Bandara</string>
     <string name="splash_screen_logo_name">splash screen logo</string>
+
+    <string name="enter_user_name">Username</string>
+    <string name="enter_password">Password</string>
+    <string name="sign_in">Sign in</string>
+    <string name="dont_have_acc_question">Don’t have an account? Sign up</string>
+
 </resources>
