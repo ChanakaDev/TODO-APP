@@ -75,7 +75,7 @@
         app:layout_constraintTop_toBottomOf="@+id/email_input" />
 
     <Button
-        android:id="@+id/signin_button"
+        android:id="@+id/signup_button"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginLeft="@dimen/margin_16"
@@ -87,7 +87,7 @@
         app:layout_constraintTop_toBottomOf="@+id/confirm_password_input" />
 
     <TextView
-        android:id="@+id/signup_text"
+        android:id="@+id/signin_txt"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="@dimen/margin_16"
@@ -95,6 +95,6 @@
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/signin_button" />
+        app:layout_constraintTop_toBottomOf="@+id/signup_button" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
